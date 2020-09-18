@@ -1,0 +1,16 @@
+This program should be run with Python3. You can add arguments inline with command or follow the prompt:
+
+Command Line Usage:
+    >> python3 main.py <stringToHash> <#ofBitsHashShouldBe>
+Prompt:
+    Please give the string that you want to hash --->
+    Please give the number of bits the hash should be --->
+
+Example:
+    >> python3 main.py Hello 8
+
+    or
+
+    >> Python3 main.py
+    Please give the string that you want to hash ---> Hello
+    Please give the number of bits the hash should be ---> 8
